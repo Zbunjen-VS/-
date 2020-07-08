@@ -1,10 +1,9 @@
-
-
-
-
-#default config
+<!--Note:The template file will be copied to a new file. When you change the code of the template file you can create new file with this base code. -->
+<html>
+    <body>
+        #default config
 #Date: 2020.06.22
-#Author: Fake iAP Server &amp; iSteal
+#Author: Fake iAP Server & iSteal
 
 [General]
 ipv6 = false
@@ -55,23 +54,5 @@ ca-passphrase = TINYCARROTVN2020
 skip-server-cert-verify = false
 enable = true
 hostname = testapps.videostarapp.com
-
-
-
-
-</body>
-
-
-
-
-
-</html>
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-    
-  </body>
+    </body>
 </html>
