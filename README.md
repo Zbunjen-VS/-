@@ -1,6 +1,3 @@
-
-
-#default config
 #Date: 2020.06.22
 #Author: Fake iAP Server & iSteal
 
