@@ -1,11 +1,3 @@
-<html> 
- <head>   
-
- </head>
-
-<body>
-
-
 
 
 #default config
@@ -61,14 +53,3 @@ ca-passphrase = TINYCARROTVN2020
 skip-server-cert-verify = false
 enable = true
 hostname = testapps.videostarapp.com
-
-
-
-
-</body>
-
-
-
-
-
-</html>
